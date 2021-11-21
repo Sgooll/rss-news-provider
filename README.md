@@ -1,4 +1,4 @@
-# flutter_rss_lecture
+# Rss news feed app
 
 A new Flutter project.
 
